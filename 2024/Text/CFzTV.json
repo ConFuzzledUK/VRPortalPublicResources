@@ -1,5 +1,5 @@
 {
-    "scheduleData:" {
+    "scheduleData": {
         "message": "This is a message displayed at the top of the sign!\nIt can go on for a while if needs be!",
         "events": [
             {

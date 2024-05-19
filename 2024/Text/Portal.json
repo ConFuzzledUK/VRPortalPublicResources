@@ -1,6 +1,6 @@
 {
     "scheduleData": {
-        "message": "Here is our upcoming schedule! We'll update it if anything changes!",
+        "message": "Here is our upcoming schedule!\nWe'll update it if anything changes!\n",
         "events": [
             {
                 "name": "Portal opens with the Fursuit Menagerie all day!",
@@ -19,7 +19,7 @@
                 "timestamp": 1716683400
             },
             {
-                "name": "Portal opens for our VR player Meet-Up",
+                "name": "Portal opens for the VR Meet-Up",
                 "timestamp": 1716715800
             },
             {

@@ -1,0 +1,31 @@
+{
+    "scheduleData:" {
+        "message": "This is a message displayed at the top of the sign!\nIt can go on for a while if needs be!",
+        "events": [
+            {
+                "name": "Example Event",
+                "timestamp": 1716145200
+            },
+            {
+                "name": "Another Exciting Event with a longer name",
+                "timestamp": 1716150600
+            },
+            {
+                "name": "Example Event",
+                "timestamp": 1716145200
+            },
+            {
+                "name": "Another Exciting Event with a longer name",
+                "timestamp": 1716150600
+            },
+            {
+                "name": "Example Event",
+                "timestamp": 1716145200
+            },
+            {
+                "name": "Another Exciting Event with a longer name",
+                "timestamp": 1716150600
+            }
+        ]
+    }
+}

@@ -1,30 +1,58 @@
 {
     "scheduleData": {
-        "message": "This is a message displayed at the top of the sign!\nIt can go on for a while if needs be!",
+        "message": "Coming to you live from Friday night onwards!",
         "events": [
             {
-                "name": "Example Event",
-                "timestamp": 1716145200
+                "name": "The Opening Ceremony",
+                "timestamp": 1716575400
             },
             {
-                "name": "Another Exciting Event with a longer name",
-                "timestamp": 1716150600
+                "name": "Paws on Water",
+                "timestamp": 1716634800
             },
             {
-                "name": "Example Event",
-                "timestamp": 1716145200
+                "name": "Taskmaster",
+                "timestamp": 1716645600
             },
             {
-                "name": "Another Exciting Event with a longer name",
-                "timestamp": 1716150600
+                "name": "Jymgo! Christmas Party",
+                "timestamp": 1716658200
             },
             {
-                "name": "Example Event",
-                "timestamp": 1716145200
+                "name": "DANGER MAZE: Resurrection",
+                "timestamp": 1716723000
             },
             {
-                "name": "Another Exciting Event with a longer name",
-                "timestamp": 1716150600
+                "name": "Shadow Raccoon's Price is Right",
+                "timestamp": 1716735600
+            },
+            {
+                "name": "The Directors Present: A Night At The Musicals",
+                "timestamp": 1716744600
+            },
+            {
+                "name": "GamesMaster: Soggy Consoles Edition",
+                "timestamp": 1716805800
+            },
+            {
+                "name": "The XII Labours of Pawpets: The Oddity of the Odyssey",
+                "timestamp": 1716818400
+            },
+            {
+                "name": "ConFuzzled 2024 Dance Competition",
+                "timestamp": 1716832800
+            },
+            {
+                "name": "Fursuit Games",
+                "timestamp": 1716809400
+            },
+            {
+                "name": "Directors' Sea Shanty Hour",
+                "timestamp": 1716829200
+            },
+            {
+                "name": "The Closing Ceremony",
+                "timestamp": 1716894000
             }
         ]
     }

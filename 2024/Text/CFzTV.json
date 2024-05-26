@@ -1,35 +1,7 @@
 {
     "scheduleData": {
-        "message": "Coming to you live from Friday night onwards!",
+        "message": "We've had some technical issues with streaming in world this year, you can always tune in at http://confuzzled.tv!",
         "events": [
-            {
-                "name": "The Opening Ceremony",
-                "timestamp": 1716575400
-            },
-            {
-                "name": "Paws on Water",
-                "timestamp": 1716634800
-            },
-            {
-                "name": "Taskmaster",
-                "timestamp": 1716645600
-            },
-            {
-                "name": "Jymgo! Christmas Party",
-                "timestamp": 1716658200
-            },
-            {
-                "name": "DANGER MAZE: Resurrection",
-                "timestamp": 1716723000
-            },
-            {
-                "name": "Shadow Raccoon's Price is Right",
-                "timestamp": 1716735600
-            },
-            {
-                "name": "The Directors Present: A Night At The Musicals",
-                "timestamp": 1716744600
-            },
             {
                 "name": "GamesMaster: Soggy Consoles Edition",
                 "timestamp": 1716805800

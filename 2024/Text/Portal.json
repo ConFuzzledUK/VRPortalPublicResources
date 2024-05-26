@@ -3,42 +3,6 @@
         "message": "Here is our upcoming schedule!\nWe'll update it if anything changes!\n",
         "events": [
             {
-                "name": "Portal opens with the Fursuit Menagerie all day!",
-                "timestamp": 1716634800
-            },
-            {
-                "name": "Portal closed for an event",
-                "timestamp": 1716670800
-            },
-            {
-                "name": "Portal opens for some late night fun!",
-                "timestamp": 1716678000
-            },
-            {
-                "name": "Portal closed till the morning",
-                "timestamp": 1716683400
-            },
-            {
-                "name": "Portal opens for the VR Meet-Up",
-                "timestamp": 1716715800
-            },
-            {
-                "name": "Portal open for the Dragon Meet-Up",
-                "timestamp": 1716724800
-            },
-            {
-                "name": "Portal open for the Rabbits and Rodents Meet-Up",
-                "timestamp": 1716732000
-            },
-            {
-                "name": "Portal muted for the Hoofers Meet-Up",
-                "timestamp": 1716739200
-            },
-            {
-                "name": "Portal communication restored for a bit!",
-                "timestamp": 1716742800
-            },
-            {
                 "name": "Portal muted for the Cosplay Meet-Up",
                 "timestamp": 1716746400
             },

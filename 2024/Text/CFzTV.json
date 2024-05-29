@@ -1,31 +1,6 @@
 {
     "scheduleData": {
-        "message": "We've had some technical issues with streaming in world this year, you can always tune in at http://confuzzled.tv!",
-        "events": [
-            {
-                "name": "GamesMaster: Soggy Consoles Edition",
-                "timestamp": 1716805800
-            },
-            {
-                "name": "The XII Labours of Pawpets: The Oddity of the Odyssey",
-                "timestamp": 1716818400
-            },
-            {
-                "name": "ConFuzzled 2024 Dance Competition",
-                "timestamp": 1716832800
-            },
-            {
-                "name": "Fursuit Games",
-                "timestamp": 1716809400
-            },
-            {
-                "name": "Directors' Sea Shanty Hour",
-                "timestamp": 1716829200
-            },
-            {
-                "name": "The Closing Ceremony",
-                "timestamp": 1716894000
-            }
-        ]
+        "message": "ConFuzzled 2024 is now over! You can watch anything you missed at https://confuzzled.tv! We'll add links to this world when we've rested up!",
+        "events": []
     }
 }

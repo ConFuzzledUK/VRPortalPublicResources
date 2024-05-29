@@ -1,55 +1,6 @@
 {
     "scheduleData": {
-        "message": "Here is our upcoming schedule!\nWe'll update it if anything changes!\n",
-        "events": [
-            {
-                "name": "Portal muted for the Cosplay Meet-Up",
-                "timestamp": 1716746400
-            },
-            {
-                "name": "Portal reopened fully for the evening!",
-                "timestamp": 1716751800
-            },
-            {
-                "name": "Portal closed till the morning",
-                "timestamp": 1716769800
-            },
-            {
-                "name": "Portal opens in muted mode for a panel: Fursuiting All Over the World",
-                "timestamp": 1716804000
-            },
-            {
-                "name": "Portal communication opened for a bit!",
-                "timestamp": 1716809400
-            },
-            {
-                "name": "Portal muted for a panel: Hypnotalk",
-                "timestamp": 1716813000
-            },
-            {
-                "name": "Portal communication re-opened for an hour",
-                "timestamp": 1716818400
-            },
-            {
-                "name": "Portal muted for a panel: Electric Fursuits",
-                "timestamp": 1716822000
-            },
-            {
-                "name": "Portal communication re-opened for an hour",
-                "timestamp": 1716827400
-            },
-            {
-                "name": "Portal muted for an event: Little Scribbles",
-                "timestamp": 1716831000
-            },
-            {
-                "name": "Portal fully opened for the final full evening!",
-                "timestamp": 1716838200
-            },
-            {
-                "name": "Portal closes till next year!",
-                "timestamp": 1716854400
-            }
-        ]
+        "message": "ConFuzzled 2024 is now over! Thank you for visiting the portal!\n\nWe'll update the world when we've rested up to let you have it as a place to visit and enjoy together for a long time to come!",
+        "events": []
     }
 }

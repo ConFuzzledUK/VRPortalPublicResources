@@ -1,0 +1,38 @@
+{
+    "messages": {
+        "pre": "Welcome Test Message. Display Active At:",
+        "inter": "Inter-day Test Message. Display Active Again At: ",
+        "post": "Post Event message"
+    },
+    "displayActive": [
+        {
+            "start": 1748021400,
+            "finish": 1748351280
+        },
+
+        {
+            "start": 1748345400,
+            "finish": 1748351280
+        }
+    ],
+    "performers": [
+        {
+            "name": "Test Event Alpha",
+            "startTime": 1748023200,
+            "setLength": 5,
+            "type": "Description of Event Alpha"
+        },
+        {
+            "name": "Test Event Beta",
+            "startTime": 1748023200,
+            "setLength": 5,
+            "type": "Event Beta Description"
+        },
+        {
+            "name": "LOMG EVENT NAME WHICH GOES ON FOR A WHILE AND SUCH",
+            "startTime": 1748347200,
+            "setLength": 200,
+            "type": "Even lomger desc that should really never be this big what the heck"
+        }
+    ]
+}

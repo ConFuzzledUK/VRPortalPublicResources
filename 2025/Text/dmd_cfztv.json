@@ -1,0 +1,40 @@
+{
+    "messages": {
+        "pre": "Welcome! ConFuzzled TV is still setting up! Our stream will go live at:",
+        "inter": "ConFuzzled TV is off the air until tomorrow! We resume tomorrow at: ",
+        "post": "ConFuzzled TV is now off the air until next year. Thank you for watching!"
+    },
+    "displayActive": [
+        {
+            "start": 1748021400,
+            "finish": 1748351280
+        },
+
+        {
+            "start": 1748345400,
+            "finish": 1748351280
+        }
+    ],
+    "performers": [
+        {
+            "name": "Opening Ceremony",
+            "startTime": 1748023200,
+            "setLength": 60,
+            "type": "Welcome to ConFuzzled 2025!"
+        },
+        
+        
+        {
+            "name": "Closing Ceremony",
+            "startTime": 1748347200,
+            "setLength": 60,
+            "type": "We'll lift the curtain on 2026!"
+        },
+        {
+            "name": "CFzTV Close-down",
+            "startTime": 1748350800,
+            "setLength": 10,
+            "type": "See you next year!"
+        }
+    ]
+}

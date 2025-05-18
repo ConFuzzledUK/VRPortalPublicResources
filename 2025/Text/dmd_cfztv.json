@@ -1,6 +1,6 @@
 {
     "messages": {
-        "pre": "Welcome! ConFuzzled TV is still setting up! Our stream will go live at:",
+        "pre": "Welcome! ConFuzzled TV is still setting up! Our stream will go live at: ",
         "inter": "ConFuzzled TV is off the air until tomorrow!\nWe will resume at: ",
         "post": "ConFuzzled TV is now off the air until next year. Thank you for watching!"
     },

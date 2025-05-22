@@ -6,13 +6,27 @@
     },
     "displayActive": [
         {
-            "start": 1748021400,
-            "finish": 1748351280
+            "start": 1747997100,
+            "finish": 1748027100
         },
 
         {
-            "start": 1748345400,
-            "finish": 1748351280
+            "start": 1748079000,
+            "finish": 1748109900
+        },
+
+        {
+            "start": 1748167200,
+            "finish": 1748192700
+        },
+
+        {
+            "start": 1748253600,
+            "finish": 1748279100
+        },
+        {
+            "start": 1748346000,
+            "finish": 1748351400
         }
     ],
     "performers": [
@@ -22,8 +36,42 @@
             "setLength": 60,
             "type": "Welcome to ConFuzzled 2025!"
         },
-        
-
+        {
+            "name": "The E621 Gameshow",
+            "startTime": 1748080800,
+            "setLength": 120,
+            "type": "We answer the most most burning questions of the fandom..."
+        },
+        {
+            "name": "ConFuzzled Fashion Show",
+            "startTime": 1748102400,
+            "setLength": 120,
+            "type": "Showcasing the best talent and creative synergies between furry and fashion."
+        },
+        {
+            "name": "DANGER MAZE FIVE: THE GHOST DIMENSION",
+            "startTime": 1748170800,
+            "setLength": 120,
+            "type": "See our attendees try to survive the ritual humiliation of our most deadly game."
+        },
+        {
+            "name": "Paws On Water",
+            "startTime": 1748185200,
+            "setLength": 120,
+            "type": "Both non-suiters and fursuiter teams have the ultimate dance off!"
+        },
+        {
+            "name": "Gamesmaster",
+            "startTime": 1748257200,
+            "setLength": 90,
+            "type": "We see which of our top gamers will take home the golden joystick in these fiendish challenges."
+        },
+        {
+            "name": "Dance Competition",
+            "startTime": 1748271600,
+            "setLength": 120,
+            "type": "Come watch fursuiters come dazzle you with their skills with these individual performances before our judges."
+        },
         {
             "name": "Closing Ceremony",
             "startTime": 1748347200,

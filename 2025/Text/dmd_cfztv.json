@@ -12,17 +12,17 @@
 
         {
             "start": 1748079000,
-            "finish": 1748109900
+            "finish": 1748134800
         },
 
         {
             "start": 1748167200,
-            "finish": 1748192700
+            "finish": 1748221200
         },
 
         {
             "start": 1748253600,
-            "finish": 1748279100
+            "finish": 1748307600
         },
         {
             "start": 1748346000,
@@ -49,6 +49,30 @@
             "type": "Showcasing the best talent and creative synergies between furry and fashion."
         },
         {
+            "name": "Dogstorm",
+            "startTime": 1748120400,
+            "setLength": 60,
+            "type": "House / Mainstage - Live music and visuals from the dance floor!"
+        },
+        {
+            "name": "Reivan",
+            "startTime": 1748120400,
+            "setLength": 60,
+            "type": "Club-style Deep DEEP House"
+        },
+        {
+            "name": "Kittz",
+            "startTime": 1748120400,
+            "setLength": 60,
+            "type": "Feel-Good Funky Filth"
+        },
+        {
+            "name": "Vesper",
+            "startTime": 1748120400,
+            "setLength": 60,
+            "type": "Liquid DnB"
+        },
+        {
             "name": "DANGER MAZE FIVE: THE GHOST DIMENSION",
             "startTime": 1748170800,
             "setLength": 120,
@@ -61,6 +85,36 @@
             "type": "Both non-suiters and fursuiter teams have the ultimate dance off!"
         },
         {
+            "name": "Px",
+            "startTime": 1748203200,
+            "setLength": 60,
+            "type": "Genre Fluid (Funk/Disco/House/UK Garage/Drum & Bass)"
+        },
+        {
+            "name": "DJ TechSane",
+            "startTime": 1748206800,
+            "setLength": 60,
+            "type": "House & Dance"
+        },
+        {
+            "name": "Foxhill",
+            "startTime": 1748210400,
+            "setLength": 60,
+            "type": "Deep & Melodic Trance / Melodic Techno / Melodic House"
+        },
+        {
+            "name": "ValueFactory",
+            "startTime": 1748214000,
+            "setLength": 60,
+            "type": "Drum & Bass"
+        },
+        {
+            "name": "Daratomic",
+            "startTime": 1748217600,
+            "setLength": 60,
+            "type": "Hardstyle / Xtra Raw"
+        },
+        {
             "name": "Gamesmaster",
             "startTime": 1748257200,
             "setLength": 90,
@@ -71,6 +125,30 @@
             "startTime": 1748271600,
             "setLength": 120,
             "type": "Come watch fursuiters come dazzle you with their skills with these individual performances before our judges."
+        },
+        {
+            "name": "Poodle Party",
+            "startTime": 1748293200,
+            "setLength": 60,
+            "type": "Holiday club party dances"
+        },
+        {
+            "name": "Theodor Shep",
+            "startTime": 1748296800,
+            "setLength": 60,
+            "type": "2010s Disco"
+        },
+        {
+            "name": "DASPRiD",
+            "startTime": 1748300400,
+            "setLength": 60,
+            "type": "Rock & Metal"
+        },
+        {
+            "name": "ADA",
+            "startTime": 1748304000,
+            "setLength": 60,
+            "type": "Metal / Metalcore"
         },
         {
             "name": "Closing Ceremony",

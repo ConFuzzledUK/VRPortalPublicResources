@@ -26,7 +26,7 @@
         },
         {
             "start": 1748346000,
-            "finish": 1748351400
+            "finish": 1748387400
         }
     ],
     "performers": [
@@ -157,8 +157,14 @@
             "type": "We'll lift the curtain on 2026!"
         },
         {
+            "name": "Dead Dog Dance",
+            "startTime": 1748372400,
+            "setLength": 240,
+            "type": "Our last silly dance of 2025! Technology permitting!"
+        },
+        {
             "name": "CFzTV Close-down",
-            "startTime": 1748350800,
+            "startTime": 1748386800,
             "setLength": 10,
             "type": "See you next year!"
         }
